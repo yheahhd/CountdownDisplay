@@ -1,0 +1,15 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Release packages and local artifacts
+发布包/
+*.zip
+
+# Settings written next to the executable
+settings.json
